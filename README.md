@@ -2,7 +2,7 @@
 
 ## Usage
 
-```bash
+```
 check_availability.py [-h] [--radius RADIUS] [ZIP]
 
 Check next available curbside pickup at nearby HEB locations.
@@ -17,7 +17,7 @@ optional arguments:
 
 
 ## Example output
-```bash
+```
 ./check_availability.py --radius 10 78729
 Research Blvd H-E-B
 12860 RESEARCH BLVD, AUSTIN, TX 78750-3222
